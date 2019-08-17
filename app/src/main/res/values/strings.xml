@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Poops</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="doyou">Dont have an account?</string>
+    <string name="source">Source Code</string>
+    <string name="create_account">Create Account</string>
+    <string-array name="materi_array">
+        <item>Array</item>
+        <item>Object</item>
+        <item>Class</item>
+        <item>Looping</item>
+        <item>String</item>
+        <item>If Conditional</item>
+    </string-array>
+    <string name="title_activity_about_activityy">AboutActivityy</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+</resources>
